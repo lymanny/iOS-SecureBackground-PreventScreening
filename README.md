@@ -39,7 +39,7 @@ This project demonstrates how to protect sensitive content in an iOS app by impl
 ### Installation
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/iOS-SecureBackgroundPreventScreenRecording.git
+    git clone https://github.com/lymanny/iOS-SecureBackground-PreventScreening.git
     ```
 2. Open the project in Xcode.
 3. Run the project on an iOS simulator or a physical device.
@@ -48,6 +48,12 @@ This project demonstrates how to protect sensitive content in an iOS app by impl
 - **Secure Background**: Test by switching the app to the background or opening the app switcher. The app will show a white screen to hide sensitive content.
 - **Prevent Screen Recording**: Start a screen recording on your device while the app is running. The app will automatically hide its content to prevent unauthorized recording.
 
+## Contributing 🤝
+Contributions are welcome! Please feel free to submit issues, fork the repository, and create pull requests.
+
+## License 📄
+This project is licensed under the [MIT License](LICENSE).
+
 ## Author 👩‍💻
-**lymanny - iOS Developer**  
+lymanny - iOS Developer  
 🌐 [Portfolio](https://lymanny.onrender.com)
